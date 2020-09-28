@@ -9,7 +9,7 @@
 ![](https://img.shields.io/badge/-Linux-e34f25?style=flat-square&logo=Linux&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-Javascript-e5cd0c?style=flat-square&logo=Javascript&logoColor=fff)
-![](https://img.shields.io/badge/-Swift-c14438?style=flat-square&logo=Swift&logoColor=fff)
+![](https://img.shields.io/badge/-Go-5fb6e8?style=flat-square&logo=Go&logoColor=eee)
 ![](https://img.shields.io/badge/-Flask-e34f26?style=flat-square&logo=Flask&logoColor=fff)
 
 
