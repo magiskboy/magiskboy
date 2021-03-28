@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/-NodeJS-e34f26?style=flat-square&logo=NodeJS&logoColor=eee)
 
 <a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magiskboy&langs_count=8&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af&layout=compact">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magiskboy&langs_count=6&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af&layout=compact&hide=notebook,matlab">
 </a>
 <a href="#">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=magiskboy&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
