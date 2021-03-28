@@ -11,5 +11,5 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magiskboy&langs_count=10&&hide_border=true&title_color=a0a9af&layout=compact&hide=jupyter%20notebook,matlab,css" style="display: block; align: right">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=magiskboy&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af" style="display: block"; align: left">
+  <img src="https://github-readme-stats.vercel.app/api?username=magiskboy&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af" style="display: block; align: left">
 </div>
