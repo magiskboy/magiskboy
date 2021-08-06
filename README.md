@@ -9,11 +9,10 @@
 ![](https://img.shields.io/badge/-Javascript-e5cd0c?style=flat-square&logo=Javascript&logoColor=fff)
 
 
-<p align="left">
-	<a href="https://github.com/magiskboy?tab=repositories">
-		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=nkthanh&icon_color=586069&title_color=a0a9af&langs_count=5" height="156"/>
-	</a>
-	<a href="https://github.com/magiskboy?tab=repositories">
-		<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=magiskboy&layout=compact&hide=jupyter%20notebook,css,html,matlab&langs_count=10&icon_color=586069&title_color=a0a9af" height="156"/>
-	</a>
-</p>
+<a href="https://github.com/magiskboy?tab=repositories">
+	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=nkthanh&icon_color=586069&title_color=a0a9af&langs_count=5" height="156"/>
+</a>
+
+<a href="https://github.com/magiskboy?tab=repositories">
+	<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=magiskboy&layout=compact&hide=jupyter%20notebook,css,html,matlab&langs_count=10&icon_color=586069&title_color=a0a9af" height="156"/>
+</a>
