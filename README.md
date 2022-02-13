@@ -7,6 +7,7 @@
 ![](https://img.shields.io/badge/-Linux-e8a83a?style=flat-square&logo=Linux&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-0a74c4?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-Javascript-e5cd0c?style=flat-square&logo=Javascript&logoColor=fff)
+![](https://img.shields.io/badge/-Go-e6e6e6?style=flat-square&logo=Go&logoColor=#fff)
 
 
 <a href="https://github.com/magiskboy?tab=repositories">
