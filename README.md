@@ -1,8 +1,14 @@
-### Welcome to Nguyen Khac Thanh's GitHub 👋
+### Hey!, I'm Nguyen Khac Thanh 👋
 
-![](https://img.shields.io/badge/-Python-0a74c4?style=flat-square&logo=Python&logoColor=fff)
-![](https://img.shields.io/badge/-Javascript-e5cd0c?style=flat-square&logo=Javascript&logoColor=fff)
+I'm a software developer from Vietnam 🇻🇳
 
-I'm a Python developer from Vietnam 🇻🇳
+I currently live in Hanoi, Vietnam 🇻🇳
 
-I'm live in Hanoi 🚀🚀🚀
+I love Open Source projects and building high performance libraries 🚀🚀🚀.
+
+You can find me on:
+
+- [My website at nkthanh.dev](https://nkthanh.dev)
+- [Twitter as @magiskboy](https://twitter.com/mag1skboy)
+- [Github as @magiskboy](https://github.com/magiskboy)
+- [LinkedIn](https://www.linkedin.com/in/thanh-nguyen-khac)
